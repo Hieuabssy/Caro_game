@@ -21,9 +21,10 @@ Caro Game is a classic board game developed entirely in C++. The game runs compl
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebefdccb-c846-46ad-842c-f88686246dd6
+  <img src="![Screenshot 2025-03-11 181558](https://github.com/user-attachments/assets/866629ed-9fa3-4f77-851d-024dc8f10efb)
 " alt="Menu" width="30%"> 
-  <img src="https://github.com/user-attachments/assets/aa24d4eb-a5b4-414b-8cac-beb7df926e90" alt="How to Play" width="30%"> 
+  <img src="![Screenshot 2025-03-11 181915](https://github.com/user-attachments/assets/10232596-a17d-41cd-8a91-601f55274daa)
+" alt="How to Play" width="30%"> 
   <img src="![Screenshot 2025-03-11 182250](https://github.com/user-attachments/assets/bf302b70-4445-4603-b1d9-0326adf11a18)
 " alt="In-game" width="30%">
 </p>
