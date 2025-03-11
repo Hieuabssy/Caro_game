@@ -1,0 +1,6 @@
+﻿  caro.cpp
+C:\Users\trung\Desktop\New folder (2)\GOMOKU-game-master\caro\Control.h(283,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\trung\Desktop\New folder (2)\GOMOKU-game-master\caro\Control.h(317,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\trung\Desktop\New folder (2)\GOMOKU-game-master\caro\caro.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\trung\Desktop\New folder (2)\GOMOKU-game-master\caro\View.h(273): warning C4715: 'CheckTick': not all control paths return a value
+  caro.vcxproj -> C:\Users\trung\Desktop\New folder (2)\GOMOKU-game-master\x64\Debug\caro.exe
